@@ -677,6 +677,9 @@ button { font: inherit; }
 .logo-row img[src*="thefacility"],
 .logo-row img[src*="fitstarr"],
 .logo-row img[src*="510society"] { height: 60px; max-width: 60px; }
+/* Skechers Pickleball wordmark + script — wide aspect, needs more width */
+.logo-row img[src*="skechers"] { max-width: 180px; }
+.partner__img[src*="skechers"] { max-width: 200px; }
 .partner__role {
   font-size: 13px;
   color: var(--gray-500);

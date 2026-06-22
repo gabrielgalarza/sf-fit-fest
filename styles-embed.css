@@ -833,6 +833,11 @@
 
 .ottff .ff-logo-row img[src*="thefacility"], .ottff .ff-logo-row img[src*="fitstarr"], .ottff .ff-logo-row img[src*="510society"] { height: 60px; max-width: 60px; }
 
+
+.ottff .ff-logo-row img[src*="skechers"] { max-width: 180px; }
+
+.ottff .ff-partner__img[src*="skechers"] { max-width: 200px; }
+
 .ottff .ff-partner__role {
   font-size: 13px;
   color: var(--gray-500);
